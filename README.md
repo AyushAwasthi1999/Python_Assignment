@@ -1,5 +1,5 @@
-# WELCOME TO MY PYTHON SECTION
+# Python_Assignment
 
-## PYTHON NOTES AND PROJECT ARE INCLUDED
+## This file contain all the python assignment
 
-## DEMO
+## module are solve with example and check it out
